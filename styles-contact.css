@@ -16,9 +16,7 @@
     resize: none;
     display: inline-block;
     align-items: right;
-    width: 200px;
-    position:relative;
-    left: 15px;
+    box-sizing: border-box;
 
 }
 
