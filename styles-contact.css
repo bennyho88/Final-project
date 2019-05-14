@@ -14,7 +14,7 @@
 
 .textarea {
     resize: none;
-    display: inline-block;
+    
     align-items: right;
     box-sizing: border-box;
 
@@ -23,5 +23,9 @@
 .submitbtn{
    margin: 0 auto;
    
+}
+
+.mapouter {
+   margin: 40px 0px 20px 0px;
 }
 
